@@ -8,7 +8,7 @@
 
 ## Overview
 
-This portfolio documents hands-on implementations in financial derivatives pricing and quantitative risk analytics, built in preparation for **Summer 2027 Risk Analytics internships** (BlackRock, Wells Fargo, BofA, Stripe).
+This portfolio documents hands-on implementations in financial derivatives pricing and quantitative risk analytics, built in preparation for **Summer 2027 Risk Analytics / Data Analytics internships**.
 
 Three projects progress from foundational options theory to production-style risk dashboards:
 
